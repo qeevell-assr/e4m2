@@ -1,0 +1,9 @@
+===== Logo =====
+Font: Gagalin
+
+
+==== Colour ====
+#7c1520
+#000000
+#ffffff
+#111111
